@@ -1,4 +1,4 @@
-module github.com/Navid2zp/dups
+module github.com/nakayama900/dups
 
 go 1.20
 
